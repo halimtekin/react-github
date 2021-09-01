@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>Test for publishing react apps on github-pages</p>
+        <p>It is working on Github Pages 🥳</p>
         <a
           className="App-link"
           href="https://reactjs.org"
